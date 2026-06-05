@@ -1,12 +1,2 @@
-# Modulo-1
-Ejercicio 1: Cómo crear, modificar y hacer el archivo README.md
-
-Ejercicio 2: Creación de un archivo html en forma manual
-
-Ejercicio 3: Crear un archivo LATex en https://overleaf.com
-
-Ejercicio 4: Creación de notebooks
-
-Ejercicio 5: Creación de un CV en LATex
-
-Ejercicio 6: Creación de un archivo con metadatos en el entorno R
+# Modulo-4
+Este módulo integra herramientas técnicas clave para el ejercicio de la ingeniería industrial, conectando el análisis de datos cuantitativos con la redacción académica. El eje central fue el desarrollo de un artículo científico enfocado en un sector productivo, donde se emplearon archivos JSON para la extracción y manipulación eficiente de información estructurada en el entorno R. Este procesamiento analítico se potencia mediante el uso de la plantilla Distill en R Markdown, logrando un documento final responsivo y reproducible que combina con fluidez la narrativa, el código vivo y el soporte bibliográfico bajo un estándar visual óptimo.
